@@ -21,6 +21,7 @@ public class AppTest
 
     public int suma(int numA, int numB) {
         return numA+numB;
+        //Comentario
     }
 
     @Test
