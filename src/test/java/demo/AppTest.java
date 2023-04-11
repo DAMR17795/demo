@@ -30,8 +30,4 @@ public class AppTest
         int resultado = calc.suma(2, 3);
         assertEquals(5, resultado);
     }
-
-
-
-
 }
